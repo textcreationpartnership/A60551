@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour, confession, and last dying speeches of the 15 criminals that were executed on Monday the 22th of December, 1690</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60551</idno>
+            <idno type="STC">Wing S4206B</idno>
+            <idno type="STC">ESTC R492261</idno>
+            <idno type="EEBO-CITATION">08246748</idno>
+            <idno type="OCLC">ocm 08246748</idno>
+            <idno type="VID">41161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1240:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour, confession, and last dying speeches of the 15 criminals that were executed on Monday the 22th of December, 1690</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Samuel Smith, Ordinary.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:41161:1"/>
+            <head>A True ACCOUNT of the BEHAVIOUR, CONFESSION, AND Laſt Dying SPEECHES Of the 15 Criminals that were Executed On <hi>Monday</hi> the 22th of <hi>December,</hi> 1690.</head>
+            <p>THe Ordinary viſited them every day after their Con<g ref="char:EOLhyphen"/>demnation, and on the laſt Lord's Day a Sermon was preached to them, on this Text, <hi>Deut</hi> 32.29. <hi>O that they were wiſe, that they underſtood this, that they would conſider their latter end.</hi>
+            </p>
+            <p>Whence five things were obſervable, 1. The Benefit and advantage of a Religious Conſideration in general. 2. The no leſs advantagious Benefit of conſidering our latter end in particular. 3. That to conſider our latter end, is an Argu<g ref="char:EOLhyphen"/>ment of our Wiſdom and Underſtanding. 4. Some Seaſons and particular Occaſions were inſtanced wherein conſideration of our Latter End is more eſpecially neceſſary. 5. That Diſ<g ref="char:EOLhyphen"/>courſe was concluded, with ſome Motives for the putting in pra<g ref="char:EOLhyphen"/>ctice this important Duty, then a Charge given to the Condemn<g ref="char:EOLhyphen"/>ed as follows.</p>
+            <p>
+               <hi>O that you were wiſe, that you underſtood this, that you would conſi<g ref="char:EOLhyphen"/>der your latter end.</hi>
+            </p>
+            <p>I know you do conſider it in one ſenſe, that is, your minds are in continual fearful Apprehenſion of it, but this is not that conſidering of your latter end, which the Text exhorts to, this is the minding in ſuch ſort their Deaths and Departures, as to prepare and make ready for them.</p>
+            <p>
+               <hi>O that I may dye the death of the righteous,</hi> is the ardent Wiſh of every one; but O that I may live the Life of the Righteous of how very few. Sirs, deceive not your ſelves, there is no hav<g ref="char:EOLhyphen"/>ing your latter End like the Righteous Man, but only by hav<g ref="char:EOLhyphen"/>ing your precedent Life like his.</p>
+            <p>What? Will not you conſider your latter end, ſo as to pre<g ref="char:EOLhyphen"/>pare for it, who have it in ſo near a view, and Death ſtares you in the face, and are you yet unprovided againſt it?</p>
+            <p>O certainly it is your Wiſdom, it is your Underſtanding, to conſider the things belonging to your everlaſting Peace, before they be for ever hid from your Eyes. How utterly inexcuſable will you be, if you do not, to morrow, to morrow my Friends will be the latter end as to this Life. O that to morrow may be the beginning of an Eternity in Bleſſedneſs unto you.</p>
+            <p>Take care therefore that they be in a due Qualification for Heaven and Happineſs; take heed that they be meer to be par<g ref="char:EOLhyphen"/>takers of the Inheritance of the Saints in Light and Glory.</p>
+            <p>This Life is the only State of Tryal and Probation, there is no amending in the other World what was left defective in this Work of Converſation, at our departure out of this.</p>
+            <p>Therefore let us now give all Diligence to make our Calling and Election ſure, let us work out our Salvation with a cautious Fear and Trembling, leſt our Contrition be imperfect, and our Repentance unſincere.</p>
+            <p>O bleſſed God! is this the buſineſs you are imployed about for an endleſs Eternity, and can you be too careful concerning it? Think not a few Tears, Sighs, and Lord have Mercy on me, to be Repentance. This is not ſo cheap and eaſy a per<g ref="char:EOLhyphen"/>formance, eſpecially when there is a whole courſe of Life of wickedneſs to be repented of. Oh, no! it imports all the painful Throws and Pangs of of a ſecond Birth, of a life of Regeneration. It imports a broken and contrite Heart, an Hatred and Deteſtation of Sin, as well as a Sorrow for it. Sincere and ſtedfaſt Reſolution of new Obedience, yea, an actual ceaſing to do evil, and learning to do well. And, oh! may your Repentance be ſuch! may if be a repenting you more that you have offended a good and gracious God by your impieties, than that theſe have expoſed you to condign temporal Puniſhment.</p>
+            <p>O cauſe you new Joy in Heaven by your Repentance, as you have formerly grieved, quenched, and offered diſpight to Gods Holy Spirit by your obſtinately wicked and impenitent Lives. Think it not enough to ſay within your ſelves, We have an Advocate with the Father, Jeſus Chriſt the Righteous, for he is no Propitiation for your Sins, unleſs you truly repent and forſake them. The Redemption purchaſed by our Saviour, and the Promiſes of his Goſpel, belong not to you, if you have not the Qualifications of Redeemed ones, nor the performed Conditions of the Goſpel-promiſes, <hi>viz.</hi> Truth Faith, Repentance and Amendment: Without Holineſs there is no Happineſs without beholding Gods Face in Righteouſ<g ref="char:EOLhyphen"/>neſs here, there is no beholding that in Glory hereafter. And therefore ſee that you have a Divine and Holy Nature im<g ref="char:EOLhyphen"/>planted in you in this Life, and then departing hence, meet<g ref="char:EOLhyphen"/>ly diſpoſed for eternal bleſſedneſs, when at the Reſurrection from the Dead you awake up, after Gods likeneſs, you ſhall be endleſly ſatisfied therewith.</p>
+            <p>I ſhall proceed to give an account of the Condemned Cri<g ref="char:EOLhyphen"/>minals, as to their former courſe of Life, and in what frame of Heart they were for a bleſſed Eternity.</p>
+            <p n="1">I. <hi>John Bennet</hi> alias <hi>Freeman,</hi> but more notoriouſly known by the name of the GOLDEN FARMER, condemned for the Murther of <hi>Charles Taylor,</hi> and ſeveral Robberies, to the value of ſome thouſand Pounds. I was with him ſeveral times in his Chamber, and exhorted him to disburthen his Conſcience, by a free Confeſſion of his Evil Courſes, yet after much Advice for his Souls Welfare, and many Prayers that God would work his Heart to Repentance, nothing more than what follows could be obtained: That he had been a great Sinner, and was guilty of moſt Sins. That he was not ſo much grieved for the Shame of this condign Puniſhment, as for offending God. And that he was not ſolicitous to lengthen out his Life upon Earth, but to get his Pardon ſealed in Heaven. He ſhed many Tears, yet ſaid, That he truſted only in Chriſt's Righteouſneſs for Pardon and Peace in Conſcience. He was exhorted chiefly to be deep<g ref="char:EOLhyphen"/>ly humbled for the Murther he had committed, and upon read<g ref="char:EOLhyphen"/>ing to him <hi>David</hi>'s Penitential Prayer, in theſe Words, <hi>Deli<g ref="char:EOLhyphen"/>ver me from Blood guiltineſs O God, and my tongue ſhall ſing of thy righteouſneſs,</hi> he gave ſome Signs of great Remorſe; yet I told him, That his Tears could not expiate his great Provocations of God, for they ſtood in need of cleanſing by the Merit and Efficacy of Chriſt's Blood ſhed, This be acknowledged. Then I endeavoured to make him more ſenſible, offering Violence to the Dictates of his own Conſcience, before he could ſo long proceed in the wicked Trade of Robbing, and putting many Perſons into affrightment of loſing their Lives: He did ac<g ref="char:EOLhyphen"/>knowledg this Crime, whereupon I exhorted him to make Re<g ref="char:EOLhyphen"/>ſtitution to the utmoſt, of what remained in his Hands, other<g ref="char:EOLhyphen"/>wiſe his Repentance could not be ſyncere: He thought this to be ſtrange Doctrine, whenas, he ſaid, he dyed for robbing. I told him, that he paid his Life to the Juſtice of the Law, it made no Satisfaction nor Recompence to thoſe he had deſpoil'd of their Eſtates. And added farther. That he ſhould nor con<g ref="char:EOLhyphen"/>ceit that his former Supplies of the Wants of the Poor was any
+<pb n="2" facs="tcp:41161:2"/>true Charity in God's Account, who abhors Robbery, though it be intended for a Burnt offering: And that I feared his Pre<g ref="char:EOLhyphen"/>tenſion to Charity was deſigned by him as a covert of his rob<g ref="char:EOLhyphen"/>bing to be leſs ſuſpected, however, that it could not attone God's Diſpleaſure and incenſed Juſtice againſt him, for ſo many Acts of Violence as he had uſed towards the Perſons and Eſtates of many: This he acknowledged. I exhorted him to make a more thorow Diſcovery of his wicked Life; but he often re<g ref="char:EOLhyphen"/>fuſed to do it, ſaying I could not pardon him. I told him, not authoritatively, this is God's ſole Prerogative, yet as a Goſpel Miniſter, to whom the Word of Reconciliation is entruſted, I might furniſh him with good Grounds of a Lively Hope of Par<g ref="char:EOLhyphen"/>don and Salvation, if be did not hide obſtinately his Sins, by which he had given publick Scandal to the Chriſtian Religion, and therefore his Repentance ought to be as Publick and Exem<g ref="char:EOLhyphen"/>plary, as his Courſe of Life had been more notorioſly ſinful than other Mens: But I could not prevail with him to give any Teſtimony of his ſyncere turning to the Lord, to whoſe all-diſcerning Eye and determination of his Soul's State I muſt leave him.</p>
+            <p n="2">II. <hi>William Jones,</hi> condemned for Felony; he is aged about 21 Years, was an Husbandman, came to <hi>London</hi> for Employ<g ref="char:EOLhyphen"/>ment, but fell into bad Company, becauſe he ſaid that he ſel<g ref="char:EOLhyphen"/>dom prayed that God would keep him from Temptations of Sinners; he broke the Sabbath, was ſometimes overtaken with exceſſive drinking, would ſwear ſometimes, and before he was married, he kept company with Red Women. I hope he was penitent.</p>
+            <p n="3">III. <hi>Francis Yates,</hi> condemned for Felony and Burglary, aged 31 years: His Employment was to turn Throwſters Mills: He joyned with bad Company, was guilty, he ſaid, of Swearing, Drunkenneſs and of walking in the Fields on the Sabbath day.</p>
+            <p n="4">IV. <hi>Richard James,</hi> condemned for Felony and Burglary: He was very obſtinate, as to the receiving of any Good Inſtruction, he would not give any account of his Employment or Conver<g ref="char:EOLhyphen"/>ſation, only acknowledged that he had been a ſinner, as all Men are: He ſhewed no Sign of Repentance, and would not declare whether he were a Proteſtant or a Papiſt.</p>
+            <p n="5">V. <hi>George Hutton,</hi> condemned for a Rape, aged 22 years, he was a Carman: He kept bad Company, among whom he would be drunken and often ſwear.</p>
+            <p n="6">VI. <hi>Thomas Diggs,</hi> condemned for clipping the Current Mony of this Kingdom, aged 33 Years: He was a Sea-Surgeon, but ſaid he left that Employment becauſe he was ſick: He ſaid that he ſeldom prayed, would ſwear, break the Sabbath, and kept lewd Women Company before Marriage.</p>
+            <p n="7">VII. <hi>Charles Wells,</hi> condemned for Felony and Burglary, aged 22 Years, he was a Taylor: He ſaid that he ſtayed at home on the Sabbath, and went not to the Publick Worſhip, for which, he thought, together with other Secret Sins, that this Diſtreſs did befal him.</p>
+            <p n="8">VIII. <hi>Peter Heyſy,</hi> condemned for Felony and Burglary: He ſaid that he had been a great Sinner, in prophaning God's Holy Name, and had kept Lewd Company.</p>
+            <p n="9">IX. <hi>John Ray,</hi> condemned for the ſame Crime, aged 22 years: He was a Shoe-maker, and confeſs'd that he had been a great Sinner.</p>
+            <p n="10">X. <hi>John Earle,</hi> condemned for Felony and Burglary, aged 17 years: His Father brought him up to the Trade of a Brick<g ref="char:EOLhyphen"/>layer; but he was diſobedient, and ſtole 10 s. from his Father for Idle Expences: And upon this, fearing his Father's Diſplea<g ref="char:EOLhyphen"/>ſure, he ran away from him. He was expoſed to bad Compa<g ref="char:EOLhyphen"/>ny, and was burnt in the Hand laſt Seſſion, and now is con<g ref="char:EOLhyphen"/>demned for a worſe Crime, becauſe he would not take warning by an eaſier Puniſhment.</p>
+            <p n="11">XI. <hi>Benjamin Harvy,</hi> condemned for Felony and Burglary, committed three Years ſince: He confeſſed that he had been guilty of moſt Sins; he was a Seaman, but left that Service, and minded not his Duty to God, not any thing which was ſe<g ref="char:EOLhyphen"/>rious. He ſeemed Penitent, and gave a better account what Saving Faith and Repentance are than moſt of the other Cri<g ref="char:EOLhyphen"/>minals.</p>
+            <p n="12">XII <hi>Elizabeth Mackdonel,</hi> condemned for Cliping, Filing and Diminiſhing the Current Money of this Kingdom. She ſaid that ſhe had led a very evil Life.</p>
+            <p n="13">XIII. <hi>Conſtance Wainwright,</hi> condemned, with three Women more, for firing <hi>Newgate;</hi> She was an old Offender, and not ſenſible of this Crime, nor of the Courſe of ill-ſpent Life; and yet ſaid, That ſhe truſted in God's Mercy for Pardon and Sal<g ref="char:EOLhyphen"/>vation, though ſhe was ignorant of the Qualifications to ob<g ref="char:EOLhyphen"/>tain either, and yet was very confident that theſe Qualifications were performed by her.</p>
+            <p n="14">XIV. <hi>Mary Jones,</hi> condemned for the ſame Crime, ſaid, That her Employment was to make Gold and Silver Lace; but of late ſhe became Idle, and fell into bad Company, by which ſhe was tempted to break the Sabbath, and that ſhe did not re<g ref="char:EOLhyphen"/>prove Swearing and Curſing when ſhe heard it; but ſhe now repents of all her Miſdeeds. I hope ſhe was penitent.</p>
+            <p>The day of Execution being come, <hi>viz. Monday</hi> the 22d in<g ref="char:EOLhyphen"/>ſtant, Mr. Ordinary attended the Priſoners, and laboured <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bring them to a fight and ſenſe of their Sins, preſſing them to a ſerious conſideration of their approaching end, future State, and a Preparation for another World: And about half an hour paſt 9 in the Morning <hi>Anne Hereford,</hi> one of the Women that ſet fire to the Priſon of <hi>Newgate,</hi> and received Sentence of Death upon that Account, was brought down and tyed up to a Gibbet in <hi>Newgate ſtreet,</hi> where, after ſome deploring her untimely End, and ſhewing a Reluctancy for her Miſdoings, ſhe was turned off.</p>
+            <p>Immediately after <hi>John Bennet</hi> alias <hi>Freeman</hi> otherwiſe called the <hi>Golden Farmer,</hi> was put into a Cart. and conveyed to <hi>Salis<g ref="char:EOLhyphen"/>bury-court</hi> end in <hi>Fleetſtreet,</hi> near the Place where he committed the Murther, for which he received Sentence, where a Gibbet was erected for his Execution, and there having made a ſhort Prayer, he gave the Executioner the Word or Sign to do his Office, and was accordingly executed, without making any Speech or Exhortation.</p>
+            <p>This Execution done, <hi>George Hutton, Francis Yates, Richard James, Charles Wells, Peter Heaſey, William Jones, John Earle, John Wray</hi> alias <hi>Ray, Sarah Cane</hi> alias <hi>Moor. Conſtance Wainewright</hi> and <hi>Elizabeth Trant</hi> were conveyed to <hi>Tyburn</hi> in ſeveral Carts, <hi>Thomas Diggs</hi> and <hi>Bartholomew Mumſord,</hi> drawn on Sledges for Cliping as in Caſe of High-Treaſon; when being tyed up, they expreſſed, as well in Geſture as Countenance, a very ſorrowful demeanour for the failings and miſdemeanours of their paſt Lives, deſiring God to have mercy upon their Souls in this their laſt and greateſt Extremity, ſeveral of them acknowledging themſelves to have been notorious and incorrigible Sinners, owning the Juſtice of God as a Scourge for their Impieties, in bringing them to a place of ignominy, and temporal Puniſhment. Mr. Ordinary prayed with them in extraordinory Zeal and Fervor, labouring with all diligence to make them ſenſible of their Conditions, how they ſtood upon the very brink of Eter<g ref="char:EOLhyphen"/>nity, and wanted but a few Moments to plunge them into it, which they ought to uſe for a <hi>Redeeming</hi> the time they had ſpent or ſquandered away in trifling Vanities, and things that had proved diſtructive to their Bodies; he then admo<g ref="char:EOLhyphen"/>niſhed them to pray for themſelves, deſiring to hear them pray, which ſome readily did, but others declined it, deſiring to be excuſed by reaſon of the Extremity of the Weather, their uncompoſedneſs, or ſome ſuch like Excuſes. The Ordinary reproved ſome of them of their neglect of the good Offices he loboured to do them in Priſon, for the Health of their Souls<g ref="char:punc">▪</g> To which <hi>Richard James</hi> anſwered, he was execeeding ſorry he had not given more heedful Attention; and others replied much to the ſame purpoſe. Then the Ordinary ſet and ſung with them the 25th. Pſalm ſutable, and fitly applied to ſo Melancholy Occaſion, which moſt of them ſung with an auda<g ref="char:EOLhyphen"/>ble Voice. Then he prayed, and recommending them to the Protection of the Almighty, took his leave, when ſoon after the Cart drew away, and their Souls were committed into the Hands of their merciful Maker and Redeemer, whilſt their Bodies remain in hope of a glorious Reſurrction to the Life Immortal.</p>
+            <argument>
+               <p>This is all the Account I can give of this Seſſion.</p>
+            </argument>
+            <closer>
+               <dateline>Dated <date>this 20th of <hi>December</hi> 1690.</date>
+               </dateline>
+               <signed>
+                  <hi>Samuel Smith</hi> Ordinary.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>⁂ The Triennial Mayor, <hi>or the New Rapparens: A Poem ſold by the Bookſellers of</hi> London <hi>and</hi> Weſtminſter, <hi>Price</hi> 6 d.</p>
+         </div>
+         <div type="physicians_advertisement">
+            <p>⁂ Theſe are to give Notice to all Perſons, for the Benefit of the Publick, That Mr. <hi>Elmy,</hi> Profeſſor of Phyſick, and Operator, of known Integrity, and above <hi>25</hi> Years practice, Liveth at the <hi>Blue Ball</hi> in <hi>Whale-Bone Court,</hi> at the Lower End of <hi>Bartholomew-lane</hi> by the <hi>Royal Exchange,</hi> who moſt ſafely and expe<g ref="char:EOLhyphen"/>ditiouſly Cures <hi>Deafneſs</hi> and <hi>Noiſe in the Ears</hi> in any of what Age ſoever, (if Curable) and at firſt Sight, by Inſpection, Reſolves the Patient if ſo or not, as moſt Eminent Perſons of Quality in this City can Teſtifie. He hath likewiſe a moſt excellent Gargariſm or Mouth-Water, which will make black or yellow Teeth as white as Ivory, in a few times uſing; and it will certainly cure the Scurvy, and all other Diſeaſes incident to the Mouth, Teeth and Gums, which in many perſons cauſeth a ſtink<g ref="char:EOLhyphen"/>ing Breath, which (by the Bleſſing of God and the uſe of this Water) I dare affirm you will be freed from thoſe Maladies beforementioned, with Directions. His Pills only prepared for the <hi>French</hi> Diſeaſe, and the <hi>Running of the Reins,</hi> may be had in Boxes of ſeveral prices, with other <hi>Venereal Arcana's,</hi> as occaſio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſerves.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
